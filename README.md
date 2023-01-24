@@ -1,7 +1,7 @@
 # Basic-form-using-node-and-mysql
 
 ## Description
-    This is a basic registration and login form using both frontend and backend technology. I used express and MySQL as backend.
+This is a basic registration and login form using both frontend and backend technology. I used express and MySQL as backend.
 
 ## Run This Project On Your Device
 
