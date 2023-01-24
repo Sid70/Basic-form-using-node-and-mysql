@@ -20,8 +20,6 @@ To run tests, run the following command  on your terminal
 ```bash
   npm run dev
 ```
-
 <video controls autoplay>
   <source src="video/my_project.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
